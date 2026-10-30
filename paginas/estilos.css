@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFF9F4;
+    color: #174F6B;
+    font-family: Arial, sans-serif;
+}
+
+
+.encabezado {
+    background-color: #E5F4F6;
+    padding: 15px;
+    border-bottom: 2px solid #C6E4E9;
+}
+
+
+
+
+.pie {
+    background-color: #4B91A8;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+
+.pie h2,
+.pie h3 {
+    color: white;
+}
+
+
+.pie a {
+    color: white;
+    text-decoration: none;
+}
